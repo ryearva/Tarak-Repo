@@ -11,5 +11,8 @@ public class Tarak {
 			System.out.println("Added new lly");
 		}
 	}
+				System.out.println("I out side loop");
+
+	
 
 }
